@@ -1,0 +1,12 @@
+// ÍNDICE GLOBAL DE ENTRADAS - DRAPPER CORE
+[REGISTRO_FAMOSOS]
+ID_001: "messi.dra"
+ID_002: "elon_musk.dra"
+
+[REGISTRO_ANIMALES]
+ID_A01: "jaguar.dra"
+ID_A02: "leon.dra"
+
+[CONTROL_GIGANTE]
+Ultima_Actualizacion: "28-04-2026"
+Estado_Del_Sistema: "Estable"
